@@ -19,3 +19,5 @@ Report Structure
 The report is divided into two key sections, both using filters for calendar date and admitting department to allow dynamic exploration.
 
 Page 1: Patient Overview
+
+<img width="637" height="260" alt="image" src="https://github.com/user-attachments/assets/a9644c5a-5157-4375-96f5-56ca417f8954" />
