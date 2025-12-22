@@ -20,4 +20,4 @@ The report is divided into two key sections, both using filters for calendar dat
 
 Page 1: Patient Overview
 
-<img width="637" height="260" alt="image" src="https://github.com/user-attachments/assets/a9644c5a-5157-4375-96f5-56ca417f8954" />
+<img width="1344" height="623" alt="image" src="https://github.com/user-attachments/assets/8fce05e2-95b5-4b78-82d9-ade88b06bd3a" />
