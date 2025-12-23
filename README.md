@@ -16,7 +16,7 @@ Report Structure
 
 The report is divided into two key sections, both using filters for calendar date and admitting department to allow dynamic exploration.
 I used Power Query to transform and clean the data before displaying it.
-<img width="1348" height="667" alt="image" src="https://github.com/user-attachments/assets/b410a182-ad11-4250-bca2-fa2d6e9ed73f" />
+<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/f2d97bb7-35da-4475-b914-1829d0cfa5e9" />
 
 
 Page 1: Patient Overview
