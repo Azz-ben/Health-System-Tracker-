@@ -21,7 +21,7 @@ I used Power Query to transform and clean the data before displaying it.
 
 Page 1: Patient Overview
 
-<img width="950" height="506" alt="image" src="https://github.com/user-attachments/assets/3d54306c-dfb3-468c-b30f-6d17825cd209" />
+<img width="881" height="491" alt="image" src="https://github.com/user-attachments/assets/5c5d59cf-e8cc-40e0-bf95-36efef492007" />
 
 This section provides a high-level view of all patients arriving at the emergency department. It includes:
 
