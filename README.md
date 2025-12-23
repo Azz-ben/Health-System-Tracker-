@@ -16,12 +16,11 @@ Report Structure
 
 The report is divided into two key sections, both using filters for calendar date and admitting department to allow dynamic exploration.
 I used Power Query to transform and clean the data before displaying it.
-<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/f2d97bb7-35da-4475-b914-1829d0cfa5e9" />
 
 
 Page 1: Patient Overview
 
-<img width="881" height="491" alt="image" src="https://github.com/user-attachments/assets/5c5d59cf-e8cc-40e0-bf95-36efef492007" />
+<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/f2d97bb7-35da-4475-b914-1829d0cfa5e9" />
 
 This section provides a high-level view of all patients arriving at the emergency department. It includes:
 
