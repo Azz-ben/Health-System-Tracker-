@@ -33,5 +33,5 @@ This gives a sense of patient volume and how demand fluctuates over time.
 
 
 Page 2: Admission & Ventilation Focus
-<img width="932" height="504" alt="image" src="https://github.com/user-attachments/assets/d82143b6-bbb4-44f7-857b-8a0243e1fc72" />
+<img width="940" height="537" alt="image" src="https://github.com/user-attachments/assets/b2f3403e-ffb9-42f7-9bf1-8434964f832f" />
 
